@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,248 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "b23c",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "4441",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "e7fe",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3435",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "1b7c",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "804e",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "d291",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "47a4",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "6bae",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3429",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "42ef",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "b4a6",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "a36d",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "35fa",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "bf4a",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "6e5e",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "309e",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "1027",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3f68",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "cc69",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "c66b",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "ae5e",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "a448",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "b22c",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "bef3",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "4104",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "447b",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "ec9a",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "64a8",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "2b45",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "be6c",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "666b",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "7287",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "ed79",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "bff9",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "187d",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3a6d",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3927",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "ba70",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "81be",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "a9ec",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "3b2f",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "11fa",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "7021",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "b1cf",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "795e",
+      "name": "user",
+      "email": "email"
+    },
+    {
+      "id": "5944",
+      "name": "user",
+      "email": "email"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
